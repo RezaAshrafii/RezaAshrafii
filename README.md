@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer · Data & AI Engineering
 
-Statistics student at the University of Tehran and a Maktab Sharif software-development graduate. I build practical products across full-stack web development, data analysis, machine learning and AI systems.
+Statistics student at the University of Tehran and a Maktab Sharif FrontEnd-development graduate. I build practical products across full-stack web development, data analysis, machine learning and AI systems.
 
 My current technical focus is building reliable data and AI workflows: retrieval-augmented generation (RAG), structured LLM applications, model evaluation and adaptation, and reproducible experiments. I am also proficient with modern AI development tools for accelerating implementation, testing, debugging, documentation and iterative product delivery.
 
