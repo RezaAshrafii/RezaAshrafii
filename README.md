@@ -2,6 +2,8 @@
 
 ### Full-Stack Developer · Statistical ML & Reliable AI Systems
 
+[![AURALIS CI](https://github.com/RezaAshrafii/AURALIS/actions/workflows/ci.yml/badge.svg)](https://github.com/RezaAshrafii/AURALIS/actions/workflows/ci.yml) [![Exam Coach CI](https://github.com/RezaAshrafii/professor-aware-exam-coach/actions/workflows/ci.yml/badge.svg)](https://github.com/RezaAshrafii/professor-aware-exam-coach/actions/workflows/ci.yml) [![Bakery CI](https://github.com/RezaAshrafii/tabrizi-bakery-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/RezaAshrafii/tabrizi-bakery-frontend/actions/workflows/ci.yml)
+
 I build practical software at the intersection of full-stack engineering, statistical machine learning and AI systems. My background combines Electrical Engineering, current Statistics studies at the University of Tehran, and professional software-development training at Maktab Sharif.
 
 My technical focus is reliable machine learning: uncertainty quantification, calibration, structured distribution shift, evaluation design and reproducible experiments. I also build retrieval-augmented generation (RAG) and structured LLM workflows, with a longer-term research direction toward uncertainty-aware decision-making, offline policy evaluation and statistically grounded model adaptation.
