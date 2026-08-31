@@ -18,7 +18,7 @@ I previously studied Electrical Engineering and completed Maktab Sharif's softwa
 
 | Project | What I built |
 | --- | --- |
-| [AURALIS](https://github.com/RezaAshrafii/AURALIS) | Persian and multilingual meeting intelligence with speech capture, evidence-grounded insights, workspaces, and action tracking. |
+| [AURALIS](https://github.com/RezaAshrafii/AURALIS) | Persian and multilingual meeting intelligence with speech capture, evidence-grounded insights, workspaces, and action tracking. Latest release: [v0.10.5 — Audio Path Hardening](https://github.com/RezaAshrafii/AURALIS/releases/tag/v0.10.5). |
 | [Professor-Aware Exam Coach](https://github.com/RezaAshrafii/professor-aware-exam-coach) | A local-first study workspace built around course-source retrieval, structured feedback, FastAPI, Next.js, and SQLite. |
 | [Tabrizi Bakery](https://github.com/RezaAshrafii/tabrizi-bakery-frontend) | A responsive bakery website built with Next.js and TypeScript, with an editorial visual system and a [live deployment](https://tabrizi-bakery.vercel.app/). |
 
