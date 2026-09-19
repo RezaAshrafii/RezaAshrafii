@@ -1,36 +1,38 @@
 # Reza Ashrafi
 
-### Statistics at the University of Tehran · Reliable ML and software engineering
+### Statistics @ University of Tehran · Reliable ML · Applied AI systems
 
-I am a Statistics student at the University of Tehran, working on reliable machine learning and applied AI systems. My recent projects study calibration, uncertainty, distribution shift, and sequential decision-making. I also build the software around that work—from experiment pipelines and APIs to interfaces that make results easier to inspect.
+I am a Statistics student at the University of Tehran building reliable machine learning and applied AI systems. My work sits at the intersection of statistical reasoning, software engineering, and practical decision support.
 
-I previously studied Electrical Engineering and completed Maktab Sharif's software-development program. I use AI tools throughout development to move faster on implementation, testing, debugging, and documentation, while checking the important decisions against code, data, and reproducible artifacts.
+I care about the parts of AI that make systems useful in the real world: calibrated uncertainty, evaluation under distribution shift, explicit data boundaries, safe tool access, and interfaces that let people inspect and challenge a result.
 
-## Research work
+I previously studied Electrical Engineering and completed Maktab Sharif's software-development program. I use AI tools throughout development for implementation, testing, debugging, and documentation, while checking important decisions against code, data, and reproducible artifacts.
 
-| Project | Focus |
-| --- | --- |
-| [Calibrated Predictive Reliability](https://github.com/RezaAshrafii/calibrated-reliability) | A reproducible C-MAPSS study of remaining-useful-life prediction under operating-condition and fault-mode shift, with a focus on calibration, interval reliability, leakage-safe splits, frozen protocols, and artifact-level verification. |
-| [PromoGuard Retail Intelligence](https://github.com/RezaAshrafii/promoguard-retail-intelligence) | Evidence-aware promotion auditing on real retail data. It combines time-aware forecast comparison, uncertainty guardrails, explicit abstention, FastAPI contracts, and a Persian Streamlit review interface. |
-| [Bearing Prognostics & Value of Information](https://github.com/RezaAshrafii/bearing-prognostics-voi) | An in-progress research pipeline for sequential bearing-degradation detection, false-alarm control, and inspection decisions. It separates development, calibration, and external NASA IMS validation rather than re-tuning on the final dataset. |
-
-## Software and AI systems
+## Selected work
 
 | Project | What I built |
 | --- | --- |
-| [AURALIS](https://github.com/RezaAshrafii/AURALIS) | Persian and multilingual meeting intelligence with speech capture, evidence-grounded insights, workspaces, and action tracking. Latest release: [v0.10.5 — Audio Path Hardening](https://github.com/RezaAshrafii/AURALIS/releases/tag/v0.10.5). |
+| [Secure AI Gateway](https://github.com/RezaAshrafii/secure-ai-gateway) | A security-first FastAPI gateway for LLM requests and tool access, with prompt-injection checks, least-privilege tool allowlisting, rate limiting, privacy-aware audit logs, tests, Docker, and CI. |
+| [Calibrated Predictive Reliability](https://github.com/RezaAshrafii/calibrated-reliability) | A reproducible C-MAPSS study of remaining-useful-life prediction under operating-condition and fault-mode shift, focused on calibration, interval reliability, leakage-safe splits, frozen protocols, and artifact-level verification. |
+| [PromoGuard Retail Intelligence](https://github.com/RezaAshrafii/promoguard-retail-intelligence) | Evidence-aware promotion auditing on real retail data, combining time-aware forecast comparison, uncertainty guardrails, explicit abstention, FastAPI contracts, and a Persian Streamlit review interface. |
+| [Bearing Prognostics & Value of Information](https://github.com/RezaAshrafii/bearing-prognostics-voi) | An in-progress research pipeline for sequential bearing-degradation detection, false-alarm control, and inspection decisions, with separate development, calibration, and external NASA IMS validation. |
+| [AURALIS](https://github.com/RezaAshrafii/AURALIS) | Persian and multilingual meeting intelligence with speech capture, evidence-grounded insights, workspaces, and action tracking. |
 | [Professor-Aware Exam Coach](https://github.com/RezaAshrafii/professor-aware-exam-coach) | A local-first study workspace built around course-source retrieval, structured feedback, FastAPI, Next.js, and SQLite. |
-| [Tabrizi Bakery](https://github.com/RezaAshrafii/tabrizi-bakery-frontend) | A responsive bakery website built with Next.js and TypeScript, with an editorial visual system and a [live deployment](https://tabrizi-bakery.vercel.app/). |
+
+## Open-source contributions
+
+- [Tenuo #626](https://github.com/tenuo-ai/tenuo/pull/626): added a tested Next.js App Router Node-runtime deployment example using the packed `@tenuo/core` tarball.
+- [randkv #12](https://github.com/DaBestCode/randkv/pull/12): verified the Transformers adapter against `HuggingFaceTB/SmolLM2-135M` and documented model-family compatibility.
 
 ## How I work
 
-I am most interested in work that needs both statistical reasoning and solid engineering. I try to define the claim before running an experiment, keep data boundaries explicit, and document what the available evidence does and does not support.
+I define the claim before running an experiment, keep data boundaries explicit, and document what the available evidence does and does not support. I prefer small, inspectable systems with clear tests and reproducible artifacts over opaque demos.
 
-My current stack includes Python, scikit-learn, FastAPI, TypeScript, React, Next.js, SQLite, Streamlit, GitHub Actions, and LLM/RAG tooling. I choose the stack around the problem rather than treating it as the point of the project.
+My current stack includes Python, scikit-learn, FastAPI, TypeScript, React, Next.js, SQLite, Streamlit, GitHub Actions, and LLM/RAG tooling. I choose the stack around the problem rather than treating the stack as the point of the project.
 
 ## Current direction
 
-My current direction is reliable decision-making for sequential and structured data: calibrated prediction, evaluation under shift, and policies that account for uncertainty before recommending an intervention.
+My current direction is reliable decision-making for sequential and structured data, together with safe AI infrastructure: calibrated prediction, evaluation under shift, uncertainty-aware policies, and guardrails for LLM applications that use tools or sensitive data.
 
 ## Contact
 
