@@ -12,17 +12,20 @@ I previously studied Electrical Engineering and completed Maktab Sharif's softwa
 
 | Project | What I built |
 | --- | --- |
-| [Secure AI Gateway](https://github.com/RezaAshrafii/secure-ai-gateway) | A security-first FastAPI gateway for LLM requests and tool access, with prompt-injection checks, least-privilege tool allowlisting, rate limiting, privacy-aware audit logs, tests, Docker, and CI. |
-| [Calibrated Predictive Reliability](https://github.com/RezaAshrafii/calibrated-reliability) | A reproducible C-MAPSS study of remaining-useful-life prediction under operating-condition and fault-mode shift, focused on calibration, interval reliability, leakage-safe splits, frozen protocols, and artifact-level verification. |
-| [PromoGuard Retail Intelligence](https://github.com/RezaAshrafii/promoguard-retail-intelligence) | Evidence-aware promotion auditing on real retail data, combining time-aware forecast comparison, uncertainty guardrails, explicit abstention, FastAPI contracts, and a Persian Streamlit review interface. |
+| [PromoGuard Retail Intelligence](https://github.com/RezaAshrafii/promoguard-retail-intelligence) | An end-to-end decision-support system for evidence-aware promotion auditing on real retail data, combining time-aware forecast comparison, uncertainty guardrails, explicit abstention, FastAPI contracts, and a Persian Streamlit review interface. |
+| [Calibrated Predictive Reliability](https://github.com/RezaAshrafii/calibrated-reliability) | A completed, reproducible C-MAPSS study of remaining-useful-life prediction under operating-condition and fault-mode shift, with calibration analysis, leakage-safe splits, frozen protocols, immutable artifacts, and independent reconstruction. |
+| [AURALIS](https://github.com/RezaAshrafii/AURALIS) | A full-stack Persian and multilingual meeting-intelligence product with speech capture, evidence-grounded insights, workspaces, action tracking, and a versioned release history. |
 | [Bearing Prognostics & Value of Information](https://github.com/RezaAshrafii/bearing-prognostics-voi) | An in-progress research pipeline for sequential bearing-degradation detection, false-alarm control, and inspection decisions, with separate development, calibration, and external NASA IMS validation. |
-| [AURALIS](https://github.com/RezaAshrafii/AURALIS) | Persian and multilingual meeting intelligence with speech capture, evidence-grounded insights, workspaces, and action tracking. |
-| [Professor-Aware Exam Coach](https://github.com/RezaAshrafii/professor-aware-exam-coach) | A local-first study workspace built around course-source retrieval, structured feedback, FastAPI, Next.js, and SQLite. |
+| [Professor-Aware Exam Coach](https://github.com/RezaAshrafii/professor-aware-exam-coach) | A local-first study workspace with course-source retrieval, structured feedback, FastAPI, Next.js, SQLite, and explicit human-review boundaries. |
 
 ## Open-source contributions
 
 - [Tenuo #626](https://github.com/tenuo-ai/tenuo/pull/626): added a tested Next.js App Router Node-runtime deployment example using the packed `@tenuo/core` tarball.
 - [randkv #12](https://github.com/DaBestCode/randkv/pull/12): verified the Transformers adapter against `HuggingFaceTB/SmolLM2-135M` and documented model-family compatibility.
+
+## AI security experiment
+
+- [Secure AI Gateway](https://github.com/RezaAshrafii/secure-ai-gateway): a small, credential-free MVP for exploring prompt-injection checks, least-privilege tool access, rate limiting, and privacy-aware audit logs. It is an experiment and learning artifact rather than a production security product.
 
 ## How I work
 
